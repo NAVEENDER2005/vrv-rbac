@@ -1,0 +1,13 @@
+package com.vrv;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VrvSecurityApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
