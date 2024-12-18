@@ -1,8 +1,8 @@
-# VRV Security
+# Argon 2 Security hashing using springBoot
 
 ## Description
 
-VRV Security is a Spring Boot-based application that implements **Role-Based Access Control (RBAC)**, **JWT authentication**, and secure **password hashing** using **Argon2**. It integrates with **PostgreSQL** for data storage and follows industry-standard security practices to protect sensitive user data.
+It is a Spring Boot-based application that implements **Role-Based Access Control (RBAC)**, **JWT authentication**, and secure **password hashing** using **Argon2**. It integrates with **PostgreSQL** for data storage and follows industry-standard security practices to protect sensitive user data.
 
 The application provides secure user registration, login mechanisms, and role-based access to different system resources. Security is a core focus of this application, ensuring that user data is safely handled and sensitive endpoints are accessible only to authorized users.
 
